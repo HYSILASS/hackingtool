@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Version 1.1.0
+# Version 1.1.0py
 import os
 import sys
 import webbrowser
